@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>thumb_jpg.rf.eb8a886989f01aba71de388423dae45c.jpg</filename>
+	<path>thumb_jpg.rf.eb8a886989f01aba71de388423dae45c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumb</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>311</xmin>
+			<xmax>429</xmax>
+			<ymin>463</ymin>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>
